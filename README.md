@@ -1,3 +1,12 @@
+
+# Customer Sales Performance Dashboard
+
+🚀 **[Open Live Dashboard](https://customer-sales-performance-dashboard-vimjd3xfb3cnq57by7l7xs.streamlit.app/)**
+
+An interactive business analytics dashboard for analyzing customer and sales performance using Excel, Python, pandas, and Streamlit.
+
+---
+
 # Customer Sales Performance Dashboard
 
 ## 📊 Project Overview
